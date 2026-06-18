@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or synthetic benchmark, please cite it using the metadata below."
+title: "Fault-Aware Decision Support for Renewable-Powered EV Charging Stations Using Multi-Source Explainable Learning"
+version: "v1.0.0"
+date-released: "2026-06-18"
+authors:
+  - family-names: "Al-Khatib"
+    given-names: "Obada"
+  - family-names: "Hellany"
+    given-names: "Ali"
+  - family-names: "Nassereddine"
+    given-names: "Mohamad"
+  - family-names: "Nassreddine"
+    given-names: "Ghalia"
+keywords:
+  - electric vehicle charging stations
+  - fault diagnosis
+  - synthetic benchmark
+  - explainable machine learning
+  - anomaly detection
+  - renewable-powered charging
+license: MIT
+repository-code: "https://github.com/INSERT-USERNAME/evcs-fault-aware-decision-support"

@@ -1,0 +1,9 @@
+{
+  "simulation_horizon_days": 24,
+  "extended_horizon_days": 180,
+  "sampling_interval_minutes": 5,
+  "window_length_minutes": 60,
+  "window_stride_minutes": 15,
+  "random_seed": 42,
+  "note": "The full numerical configuration is defined in the Config class inside src/run_evcs_fault_aware_pipeline.py."
+}
