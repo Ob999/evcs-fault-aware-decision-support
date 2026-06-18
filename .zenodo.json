@@ -1,0 +1,45 @@
+{
+  "title": "Fault-Aware Decision Support for Renewable-Powered EV Charging Stations Using Multi-Source Explainable Learning",
+  "upload_type": "software",
+  "description": "Reproducible synthetic EVCS benchmark pipeline for fault-aware decision support in renewable-powered electric vehicle charging stations. The repository includes synthetic data generation, fault/anomaly injection, window-based feature extraction, supervised and anomaly/open-set model evaluation, source-level explainability, risk-state mapping, operational-response analysis, fixed random seeds, and scripts used to generate the reported tables and figures.",
+  "creators": [
+    {
+      "name": "Al-Khatib, Obada",
+      "affiliation": "University of Wollongong in Dubai"
+    },
+    {
+      "name": "Hellany, Ali",
+      "affiliation": "Western Sydney University"
+    },
+    {
+      "name": "Nassereddine, Mohamad",
+      "affiliation": "University of Wollongong in Dubai"
+    },
+    {
+      "name": "Nassreddine, Ghalia",
+      "affiliation": "Computer and Information Systems Department, Mechref"
+    }
+  ],
+  "keywords": [
+    "electric vehicle charging stations",
+    "EVCS",
+    "fault diagnosis",
+    "decision support",
+    "synthetic benchmark",
+    "explainable machine learning",
+    "anomaly detection",
+    "renewable-powered charging",
+    "BESS",
+    "PV"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Ob999/evcs-fault-aware-decision-support",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
